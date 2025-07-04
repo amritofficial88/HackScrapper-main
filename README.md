@@ -66,5 +66,5 @@ HackScraper/
 ```
 
 ---
-**Developed by Aditya Bhatt** 🚀
+**Developed by Amritangshu Dey**
 
