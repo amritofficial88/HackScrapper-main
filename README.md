@@ -66,5 +66,5 @@ HackScraper/
 ```
 
 ---
-**Developed by Amritangshu Dey**
+**[Developed by Amritangshu Dey]**
 
